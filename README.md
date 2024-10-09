@@ -21,7 +21,7 @@ I am Hashmat Shadab from Kashmir, currently pursuing a PhD at Mohamed Bin Zayed 
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Visual-Spatial Perception| Understanding Vision Models's Generalization | [Towards Evaluating the Robustness of Visual State Space Models](https://arxiv.org/abs/2406.08486) | [MambaRobustness](https://github.com/HashmatShadab/MambaRobustness)|Under Review|
+Visual-Spatial Perception| Understanding Vision Models's Generalization | [Towards Evaluating the Robustness of Visual State Space Models](https://arxiv.org/abs/2406.09407) | [MambaRobustness](https://github.com/HashmatShadab/MambaRobustness)|Under Review|
 Visual-Spatial Perception| Understanding Vision Models's Generalization | [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](https://arxiv.org/abs/2403.04701) | [ObjectCompose](https://github.com/Muhammad-Huzaifaa/ObjectCompose)|ACCV'24-Oral|
 Adversarial Machine Learning| Volumetric Medical Segmentation | [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) | [RVMSM](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|BMVC'24|
 Adversarial Machine Learning| Adversarial Attack| [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations](https://arxiv.org/abs/2207.08803)|[ARP](https://github.com/HashmatShadab/APR)|BMVC'22-Oral|
