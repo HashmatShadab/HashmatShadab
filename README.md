@@ -21,7 +21,7 @@ I am Hashmat Shadab from Kashmir, currently pursuing a PhD at Mohamed Bin Zayed 
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:------:|
-Adversarial Machine Learning| Improving Robustness of Vision Model's in Medical  | [Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology]() | [HSAT](https://github.com/HashmatShadab/HSAT)|Under Review|
+Adversarial Machine Learning| Improving Robustness of Vision Model's in Medical  | [Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology](https://arxiv.org/abs/2503.10629) | [HSAT](https://github.com/HashmatShadab/HSAT)|Under Review|
 Vision-Language Model | Understanding Robustness of VLM's | [Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models](https://arxiv.org/abs/2502.01576) | [Robust-LLaVA](https://github.com/HashmatShadab/Robust-LLaVA)|Under Review|
 Visual-Spatial Perception| Understanding Vision Models's Generalization | [Towards Evaluating the Robustness of Visual State Space Models](https://arxiv.org/abs/2406.09407) | [MambaRobustness](https://github.com/HashmatShadab/MambaRobustness)|Under Review|
 Visual-Spatial Perception| Understanding Vision Models's Generalization | [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](https://arxiv.org/abs/2403.04701) | [ObjectCompose](https://github.com/Muhammad-Huzaifaa/ObjectCompose)|**ACCV'24-Oral** (Best Student Paper Runner Up)|
