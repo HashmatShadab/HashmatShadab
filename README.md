@@ -32,4 +32,6 @@ Visual-Spatial Perception| Understanding Vision Models's Generalization | [Objec
 Adversarial Machine Learning| Volumetric Medical Segmentation | [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) | [RVMSM](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|**BMVC'24**|
 Adversarial Machine Learning| Adversarial Attack| [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations](https://arxiv.org/abs/2207.08803)|[ARP](https://github.com/HashmatShadab/APR)|**BMVC'22-Oral**|
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashmatshadab&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HashmatShadab&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
+</p>
