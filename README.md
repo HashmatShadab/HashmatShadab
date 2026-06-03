@@ -31,5 +31,3 @@ Visual-Spatial Perception| Understanding Vision Models's Generalization | [Towar
 Visual-Spatial Perception| Understanding Vision Models's Generalization | [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](https://arxiv.org/abs/2403.04701) | [ObjectCompose](https://github.com/Muhammad-Huzaifaa/ObjectCompose)|**ACCV'24-Oral** (Best Student Paper Runner Up)|
 Adversarial Machine Learning| Volumetric Medical Segmentation | [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) | [RVMSM](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|**BMVC'24**|
 Adversarial Machine Learning| Adversarial Attack| [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations](https://arxiv.org/abs/2207.08803)|[ARP](https://github.com/HashmatShadab/APR)|**BMVC'22-Oral**|
-
-![My GitHub Stats](https://vercel.app)
